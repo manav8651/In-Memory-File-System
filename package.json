@@ -4,7 +4,7 @@
   "description": "",
   "main": "cli.js",
   "bin": {
-    "cli": "cli.js"
+    "in-memory-file-system": "cli.js"
   },
   "preferGlobal": true,
   "scripts": {
